@@ -1,0 +1,21 @@
+<?php 
+ return [ 
+"printers" => "پرینتەرەکان",
+"add_printer" => "زیادکردنی پرینتەر",
+"name" => "ناوی پرینتەر",
+"connection_type" => "جۆری پەیوەندی",
+"capability_profile" => "توانا",
+"ip_address" => "ناونیشان IP",
+"port" => "دەرچە",
+"path" => "رێگا",
+"added_success" => "پرینتەرەکە بە سەرکەوتوویی زیاد کرا",
+"manage_your_printers" => "بەڕێوەبردنی پرینتەرەکان",
+"all_your_printer" => "هەموو پرینتەرەکان ڕێکخراون",
+"deleted_success" => "پرینتەرەکە بە سەرکەوتوویی سڕایەوە",
+"edit_printer_setting" => "ڕێکخستنی چاپکەرەکە بگۆڕە",
+"receipt_printers" => "چاپکەری پسوڵە",
+"character_per_line" => "کاراکتەرەکان بۆ هەر دێڕێک",
+"printer_name" => "ناوی چاپکەر",
+"updated_success" => "پرینتەرەکە بە سەرکەوتوویی نوێکراوەتەوە",
+"edit_printer" => "دەستکاری چاپکەرەکە بکە",
+];

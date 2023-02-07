@@ -1,0 +1,21 @@
+<?php 
+ return [ 
+"home" => "سەرەکی",
+"welcome_message" => ",:name بەخێربێیت",
+"total_sell" => "کۆی فرۆشتن",
+"total_purchase" => "کۆی کڕین",
+"invoice_due" => "وەسڵی نەدراو",
+"purchase_due" => "ئەو مشتەریانەی پارەیان نەداوە",
+"today" => "ئەمڕۆ",
+"this_week" => "ئەم هەفتەیە",
+"this_month" => "ئەم مانگە",
+"this_fy" => "ئەم ساڵی داراییە",
+"sells_last_30_days" => "فرۆشتن لە ٣٠ ڕۆژی ڕابردوودا",
+"sells_current_fy" => "ساڵی کاری ئێستا",
+"total_sells" => "(:currency) کۆی فرۆشتن",
+"product_stock_alert" => "ئاگادارکردنەوەی مەخزەن",
+"payment_dues" => "قەرزەکان",
+"due_amount" => "بڕی شایستە",
+"stock_expiry_alert" => "ئاگاداری بەسەرچوون", 
+"todays_profit" => "قازانجی ئەمڕۆ", 
+];
